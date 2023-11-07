@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomaciUkol_5Lekce_UpravaKartoteky", "DomaciUkol_5Lekce_UpravaKartoteky\DomaciUkol_5Lekce_UpravaKartoteky.csproj", "{B8C13630-2A34-44DF-85BF-572F7FA34939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C13630-2A34-44DF-85BF-572F7FA34939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C13630-2A34-44DF-85BF-572F7FA34939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C13630-2A34-44DF-85BF-572F7FA34939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C13630-2A34-44DF-85BF-572F7FA34939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA24B37-FA40-4433-BE92-E90B2E1B3B95}
+	EndGlobalSection
+EndGlobal
